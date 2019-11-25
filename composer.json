@@ -1,0 +1,17 @@
+{
+    "name": "ultra/nt",
+    "authors": [
+        {
+            "name": "UltraProjectPl",
+            "email": "jakub.sumara09@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": ""
+        }
+    },
+    "require": {
+        "symfony/var-dumper": "^5.0"
+    }
+}
